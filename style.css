@@ -124,6 +124,7 @@ header button:hover{
 	}
 	header{
 		background:url(images/mobile/image-header.jpg) no-repeat center bottom;
+		background-size:cover;
 	}
 	header nav{
 		background:#fff;
